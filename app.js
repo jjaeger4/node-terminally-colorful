@@ -1,4 +1,4 @@
-exports.terminally-colorful = {
+exports['terminally-colorful'] = {
 	fg: {
 		black: 30,
 		red: 31,
