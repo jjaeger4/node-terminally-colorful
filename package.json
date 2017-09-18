@@ -1,0 +1,38 @@
+{
+  "name": "node-terminally-colorful",
+  "version": "1.0.0",
+  "description": "A node package to add colors to text in the terminal. Useful for watching log files for specific events firing off.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjaeger4/node-terminally-colorful.git"
+  },
+  "keywords": [
+    "node",
+    "color",
+    "color",
+    "node",
+    "terminal",
+    "color",
+    "node",
+    "terminal",
+    "color",
+    "node",
+    "console",
+    "color",
+    "console",
+    "color",
+    "color",
+    "console",
+    "color"
+  ],
+  "author": "Jesse Jaeger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjaeger4/node-terminally-colorful/issues"
+  },
+  "homepage": "https://github.com/jjaeger4/node-terminally-colorful#readme"
+}
