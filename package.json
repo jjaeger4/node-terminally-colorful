@@ -1,6 +1,6 @@
 {
   "name": "terminally-colorful",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A node package to add colors to text in the terminal. Useful for watching log files for specific events firing off.",
   "main": "app.js",
   "scripts": {
